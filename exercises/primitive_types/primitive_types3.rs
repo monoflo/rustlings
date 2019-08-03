@@ -3,7 +3,7 @@
 // Scroll down for hints!
 
 fn main() {
-    let a = ???
+    let a = ["BIG ARRAY"; 150]; // could also use 101-character+ string
 
     if a.len() >= 100 {
         println!("Wow, that's a big array!");
